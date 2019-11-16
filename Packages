@@ -12,7 +12,7 @@
 \f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Package: com.Burrit0z.test\
 Name: Test\
-Version: 1\
+Version: 10.25.1-2\
 Architecture: iphoneos\
 Description: This is a test package!\
 Maintainer: Burrit0z\
@@ -24,7 +24,7 @@ Size:
 \f1\fs28 \cf4 \cb5 288338
 \f0\fs26 \cf2 \cb3 \
 MD5sum: 
-\f2\fs28 \cf6 \cb7 \outl0\strokewidth0 \strokec6 723aa82a83c278d5e7e7be9b109b406a
-\f0\fs26 \cf2 \cb3 \outl0\strokewidth0 \
+\f2\fs28 \cf6 \cb7 723aa82a83c278d5e7e7be9b109b406a
+\f0\fs26 \cf2 \cb3 \
 SHA1: ec734b651574683f36974c7f12847fbbe084dbe2\
 SHA256: 1c34f88707b55e6104c4eb20e71ffa3d33e414b71ef689a15fad0640d0ac58cb}
