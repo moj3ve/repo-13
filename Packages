@@ -125,3 +125,19 @@ Section: Development
 Description: test, don't install!!!
 Author: burrit0z
 Name: Test Only!!!
+
+Package: com.burritoz.testagain
+Version: 1.test
+Architecture: iphoneos-arm
+Maintainer: Burrit0z
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/test2.deb
+Size: 9974
+MD5sum: f3ac3d2be2901d0479dfa3d029b065df
+SHA1: bd21ba8e2b13021ce642062832de280337769ddd
+SHA256: e7d5180a23a0af12a98fc1fa9b772a16ed9432dd4c39768bc518ce16417bbea3
+Section: Themes
+Description: Testing again!!!
+Author: burrit0z
+Name: Testing some more
