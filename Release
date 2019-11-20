@@ -1,8 +1,8 @@
-Origin: iCraze's Repo
-Label: iCraze's Repo
+Origin: Burrit0z Repo
+Label: Burrit0z Repo
 Suite: stable
 Version: 1.0
-Codename: iCraze's Repo
+Codename:Burrit0z Repo
 Architectures: iphoneos-arm
 Components: main
-Description: My Packages Will Be Hosted On This Repo Until They Are Added To BigBoss.
+Description: My Packages Will Be Hosted On This Repo!
