@@ -1,4 +1,4 @@
-Package: com.burritoz.NoMoreYTSwipeyWatch
+Package: com.icraze.NoMoreYTSwipeyWatch
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: burrit0z
@@ -14,7 +14,7 @@ Description: Remove The New 'Swipe To Advance Videos' Feature
 Author: burrit0z
 Name: NoMoreYTSwipeyWatch
 
-Package: com.burrit0z.Status12
+Package: com.icraze.Status12
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: burrit0z
@@ -30,7 +30,7 @@ Description: Enables The iOS 12 iPad Style Status Bar On All iOS 12 Devices.
 Author: burrit0z
 Name: Status12
 
-Package: com.burrit0z.betternetplusplus
+Package: com.icraze.betternetplusplus
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: burrit0z
@@ -46,7 +46,7 @@ Description: Premium For Free
 Author: burrit0z
 Name: Betternet but better
 
-Package: com.burrit0z.simplisticphotos
+Package: com.icraze.simplisticphotos
 Version: 0.0.2-1+debug
 Architecture: iphoneos-arm
 Maintainer: burrit0z
@@ -62,7 +62,7 @@ Description: Removes The Tab-Bar In The Photos App.
 Author: burrit0z
 Name: Simplistic Photos
 
-Package: com.burrit0z.speedtestplusplus
+Package: com.icraze.speedtestplusplus
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: iCraze
@@ -78,7 +78,7 @@ Description: Removes Ads
 Author: burrit0z
 Name: Ookla Speedtest++
 
-Package: com.burrit0z.youtubemusicbackgroundplayback
+Package: com.icraze.youtubemusicbackgroundplayback
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iCraze
@@ -94,7 +94,7 @@ Description: Enable Background Playback On The YouTube Music App For Free!
 Author: burrit0z
 Name: YouTube Music Background Playback
 
-Package: com.burrit0z.ytnocast
+Package: com.icraze.ytnocast
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: iCraze
