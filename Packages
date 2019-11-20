@@ -1,29 +1,112 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
-{\colortbl;\red255\green255\blue255;\red21\green21\blue21;\red244\green245\blue246;\red0\green0\blue0;
-\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c10980\c10980\c10980;\cssrgb\c96471\c96863\c97255;\cssrgb\c0\c0\c0;
-\cssrgb\c100000\c100000\c100000;}
-\margl1440\margr1440\vieww12880\viewh9160\viewkind0
-\deftab720
-\pard\pardeftab720\sl300\partightenfactor0
+Package: com.icraze.NoMoreYTSwipeyWatch
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/nomoreytswipeywatch.deb
+Size: 11832
+MD5sum: 00875625998bc9fee513435814d1d16b
+SHA1: 783a68aa42929a3ce9cbfc58e11c2182993c1a38
+SHA256: aea1de5e4b475735ffc288a8b5e9acc57d42d2f0139ac158520e287440bb6853
+Section: Tweaks
+Description: Remove The New 'Swipe To Advance Videos' Feature
+Author: iCraze
+Name: NoMoreYTSwipeyWatch
 
-\f0\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-Package: com.Burrit0z.test2\
-Version: 0.0.1-127\
-Section: Tweaks\
-Maintainer: Burrit0z <>\
-Depends: mobilesubstrate, preferenceloader\
-Provides: com.Burrit0z.test2\
-Architecture: iphoneos-arm\
-Filename: debs/com.Burrit0z.test2_1.0_iphoneos-arm.deb\
-Size: 6040\
-Installed-Size: 40\
-MD5sum: 
-\fs22 \cf4 \cb5 \kerning1\expnd0\expndtw0 \CocoaLigature0 6f2a1e0fed4eb4f7005488957a31a3eb
-\fs26 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\CocoaLigature1 \
-Description: Test only!\
-Name: Test package!\
-Author: Burrit0z <>\
-Depiction: https://www.google.com/}
+Package: com.icraze.Status12
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/status12.deb
+Size: 11370
+MD5sum: 5b203afaff11cb69b8cd76286f1a3b37
+SHA1: ce5a351fe37bb0add27ec6988f965cc8ad6d86cf
+SHA256: 2da4fe9ad3e1f3fe0fd24d38ef883eb2350b72f0f6e520ee970bc8c373157317
+Section: Tweaks
+Description: Enables The iOS 12 iPad Style Status Bar On All iOS 12 Devices.
+Author: iCraze
+Name: Status12
+
+Package: com.icraze.betternetplusplus
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/betternetplusplus.deb
+Size: 12602
+MD5sum: 809209714e89b1deac1310341d782ea4
+SHA1: 23b4ab06c03fb119e3d27e4d228e33523887c42a
+SHA256: 51b122601629cd44d7b13195df7f850d6d03cb1f0b8009929080ed0d53e36a95
+Section: Tweaks
+Description: Premium For Free
+Author: iCraze
+Name: Betternet++
+
+Package: com.icraze.simplisticphotos
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/simplisticphotos.deb
+Size: 9866
+MD5sum: 57188405f337168eec391181a6208bfd
+SHA1: 68f2f921ed24cde363c04fd95d87e2c95d3cb936
+SHA256: 28e87945fbea95a49c6b234e8c340d6813b3dd33bab52f4fd33f1b5b5d60a8d2
+Section: Tweaks
+Description: Removes The Tab-Bar In The Photos App.
+Author: iCraze
+Name: Simplistic Photos
+
+Package: com.icraze.speedtestplusplus
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/speedtest++.deb
+Size: 9908
+MD5sum: a03f135a22e36a3fd6ae5565f5fd2f24
+SHA1: a9c1934d02a7025692b6ba556eae9ef37fa2cd22
+SHA256: 1ab690ab3171f9a402f5bb8e163cec824a5a220b2e711d38c62a04a23f30c2e9
+Section: Tweaks
+Description: Removes Ads
+Author: iCraze
+Name: Ookla Speedtest++
+
+Package: com.icraze.youtubemusicbackgroundplayback
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.icraze.youtubemusicbackgroundplayback_1.0_iphoneos-arm.deb
+Size: 2978
+MD5sum: 99f3295e157f3129681a468e1a198e84
+SHA1: 1b733590b92e093dfb14e03c8d30820bb7cd097b
+SHA256: bb3a40b437219cb6ba43a3b2be0e89de27d4b472a75ee9c1a0e86a009d3cd743
+Section: Tweaks
+Description: Enable Background Playback On The YouTube Music App For Free!
+Author: iCraze
+Name: YouTube Music Background Playback
+
+Package: com.icraze.ytnocast
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: debs/ytnocast.deb
+Size: 9974
+MD5sum: 6c4925ad1dd9a78e10550060d4d00f83
+SHA1: 0638e0e19dd57f65a834b2b2985fe4bac67a3b90
+SHA256: a27b0d5d61f45a4ff66cae31367438197d0aa57a2fa6015ba4714c29aa30c5f5
+Section: Tweaks
+Description: Removes The Cast To Device Button In The YouTube App. Useful For Those Who Do Not Cast Or Want To Prevent Accidentally Casting To Nearby Devices.
+Author: iCraze
+Name: YTNoCast
+
