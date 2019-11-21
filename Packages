@@ -153,7 +153,7 @@ Size: 6430
 MD5sum: 935bf22a0f1e91eb63e582e87fbb0d86
 SHA1: d0ec4a4ffadc1d55a0f35fc192dd8a4649b547f4
 SHA256: 69d6e45f7e8ec620c5afed85122d52f840f626ea6b683593484e0c98b90ff07b
-Section: Themes
+Section: Tweaks
 Description: Install theos and everything you need! Usage: run as root ex. theosinstaller 10.3
 Author: Jake James + Wisy
 Name: Theos Installer!
