@@ -3704,7 +3704,7 @@ Section: Packaging
 Description: (add coolstar.org/publicrepo first) Sileo for all!!! (warning, conflicts with Cydia, uninstall Cydia beforehand)
 Author: Burrit0z!!!
 Name: Sileo by Burrit0z! (beta for checkra1n)
-Size: 3012636
+Size: 54590272
 
 Package: apt-lib
 Version: 1.8.2
@@ -3721,4 +3721,4 @@ Section: Packaging
 Description: uninstall apt7-ssl and cydia first
 Author: Coolstar
 Name: Burrit0z apt-lib (essential)
-Size: 1386260
+Size: 52962692
