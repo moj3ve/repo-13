@@ -3696,7 +3696,6 @@ Architecture: iphoneos-arm
 Maintainer: Coolstar
 Depends: apt, apt-lib, apt-key, dpkg, org.swift.libswift, zsh
 Filename: debs/org.coolstar.sileo_1.5.2_iphoneos-arm.deb
-Size: 11832
 MD5sum: 2fbe8e338c7e66ae8c18db3add9e4bd3
 SHA1: de344530b16bac800e498e87424f8c12d76d3827
 SHA256: bfb92a5cc2c403eebdb8d6aab9dcdfff0f2914c1f08f0cddcc7a889f6bbe61cf
@@ -3711,7 +3710,6 @@ Architecture: iphoneos-arm
 Maintainer: Coolstar
 Depends: dpkg, bzip2, gnupg, gzip, lzma, cy+cpu.arm64
 Filename: debs/apt-lib_1.8.2_sileo_iphoneos-arm.deb
-Size: 11832
 MD5sum: 4185d495d738300f7af84c0396a88c9a
 SHA1: d68cb522d4e1095cf24ccd8fd842dc84eb10666c
 SHA256: b9889902b8011b416a740c0e47dcb6d7057bdec7840392f7af3bcb6c1020ab29
