@@ -3714,6 +3714,7 @@ Filename: debs/apt-lib_1.8.2_sileo_iphoneos-arm.deb
 MD5sum: 4185d495d738300f7af84c0396a88c9a
 SHA1: d68cb522d4e1095cf24ccd8fd842dc84eb10666c
 SHA256: b9889902b8011b416a740c0e47dcb6d7057bdec7840392f7af3bcb6c1020ab29
+Conflicts: cydia, apt7-ssl, cydia-gui
 Section: Packaging
 Description: uninstall apt7-ssl and cydia first
 Author: Coolstar
