@@ -3699,7 +3699,6 @@ Filename: debs/sileo_1.5.2_iphoneosarm.deb
 MD5sum: 47cd94451f45fbdb26995ac29a0ffa5c
 SHA1: dc05f7392cfc46fa292ebb765c2c1ebbaf56ebca
 SHA256: 7a54bd8d5b6bf651042301c9323cb11df01a4d4e892480f435d508ecad6e8362
-SHA512: d45699ccc024ab6e27c14acc198ccf7e3fdc5b859123a79fd42d4d5f50a36c2e70f1523ae2894756a6bb60ceb3dda48c7e079ccc3a2a3dbfc806969dc9b9e17d
 Section: Packaging
 Description: (add coolstar.org/publicrepo first) Sileo for all!!! (warning, conflicts with Cydia, uninstall Cydia beforehand)
 Author: Burrit0z!!!
@@ -3715,7 +3714,6 @@ Filename: debs/apt-lib_1.8.2_sileo_iphoneos-arm.deb
 MD5sum: 0e0f97b9713f8d97a567bd6847540279
 SHA1: 1906d54bc020c37c242e39914823de7d96e0c694
 SHA256: 5a27bbf877d222e9e1f0d5fce1bbb5a5138c4c5134cd9156e63e5d85d9e0b349
-SHA512: 2df886e746c20bc275544409a99510d5ef2ecb45104c4a197dda0b9c45116dda898d9c61ee73e8466e107bd26b992170812a6679e02fff93ce61f61271f09711
 Conflicts: cydia, apt7-ssl, cydia-gui
 Section: Packaging
 Description: uninstall apt7-ssl and cydia first
