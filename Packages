@@ -3702,7 +3702,8 @@ SHA256: bfb92a5cc2c403eebdb8d6aab9dcdfff0f2914c1f08f0cddcc7a889f6bbe61cf
 Section: Packaging
 Description: (add coolstar.org/publicrepo first) Sileo for all!!! (warning, conflicts with Cydia, uninstall Cydia beforehand)
 Author: Coolstar
-Name: Sileo for checkra1n
+Name: Sileo.deb (beta for checkra1n)
+Size: 3012636
 
 Package: apt-lib
 Version: 1.8.2
@@ -3717,3 +3718,4 @@ Section: Packaging
 Description: uninstall apt7-ssl and cydia first
 Author: Coolstar
 Name: Sileo apt-lib (essential)
+Size: 1386260
