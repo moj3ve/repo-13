@@ -3695,7 +3695,7 @@ Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: Coolstar
 Depends: apt, apt-lib, apt-key, dpkg, org.swift.libswift, zsh
-Filename: debs/org.coolstar.sileo_1.5.2_iphoneos-arm.deb
+Filename: debs/sileo_1.5.2_iphoneosarm.deb
 MD5sum: 2fbe8e338c7e66ae8c18db3add9e4bd3
 SHA1: de344530b16bac800e498e87424f8c12d76d3827
 SHA256: bfb92a5cc2c403eebdb8d6aab9dcdfff0f2914c1f08f0cddcc7a889f6bbe61cf
