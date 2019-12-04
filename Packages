@@ -3720,3 +3720,17 @@ Description: uninstall apt7-ssl and cydia first
 Author: Coolstar
 Name: Burrit0z apt-lib (essential)
 Size: 52962692
+
+Package: com.burritoz.verifyme
+Name: Verify me!!!
+Depends: mobilesubstrate
+Version: 0.0.4 beta
+Filename: debs/com.burritoz.verifyme_0.0.4-1+debug_iphoneos-arm.deb
+MD5sum: 81af39676d00af8067e9314b0df37261
+SHA1: 70d09fe1a2306164f959a2eb0b8fce43cbe3d6e0
+SHA256: 95657d4a58d2c4a5c8ccdc01254758df9a4d57ae632399542a134f59906d1170
+Architecture: iphoneos-arm
+Description: Displays "Unable to verify app" even after locking your phone! Let the pain of revokes begin!!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
