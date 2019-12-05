@@ -3724,7 +3724,7 @@ Size: 52962692
 Package: com.burritoz.verifyme
 Name: Verify me!!!
 Depends: mobilesubstrate
-Version: 0.0.4 beta
+Version: 0.0.4-1+debug beta
 Filename: debs/com.burritoz.verifyme_0.0.4-1+debug_iphoneos-arm.deb
 MD5sum: f06102f9b495db933e78efc7f0ee3e48
 Architecture: iphoneos-arm
@@ -3736,7 +3736,7 @@ Section: Tweaks
 Package: com.burritoz.verifyme
 Name: Verify me!!!
 Depends: mobilesubstrate
-Version: 0.0.5 beta
+Version: 0.0.5-1+debug beta
 Filename: debs/com.burritoz.verifyme_0.0.5-1+debug_iphoneos-arm.deb
 MD5sum: 6d4d449e38e27a6acc3b33d8b21601a0
 Architecture: iphoneos-arm
