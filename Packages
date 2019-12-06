@@ -3721,26 +3721,3 @@ Author: Coolstar
 Name: Burrit0z apt-lib (essential)
 Size: 52962692
 
-Package: com.burritoz.verifyme
-Name: Verify me!!!
-Depends: mobilesubstrate
-Version: 0.0.4-1+debug beta
-Filename: debs/com.burritoz.verifyme_0.0.4-1+debug_iphoneos-arm.deb
-MD5sum: f06102f9b495db933e78efc7f0ee3e48
-Architecture: iphoneos-arm
-Description: Displays "Unable to verify app" even after locking your phone! Let the pain of revokes begin!!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
-
-Package: com.burritoz.verifyme
-Name: Verify me!!!
-Depends: mobilesubstrate
-Version: 0.0.5-1+debug
-Filename: debs/com.burritoz.verifyme_0.0.5-1+debug_iphoneos-arm.deb
-MD5sum: 9c17709f08a5dd8dabe784aa2e0665ee
-Architecture: iphoneos-arm
-Description: Displays "Unable to verify app" even after locking your phone! Let the pain of revokes begin!!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
