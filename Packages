@@ -8,3 +8,14 @@ Author: burrit0z
 Section: Tweaks
 Filename: debs/com.burritoz.testing_0.0.293b-1+debug_iphoneos-arm.deb
 MD5sum: da88825c4e47e991db08b3a0478ea171
+
+Name: Dockify
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Description: A very noice tweak to configure the dock a bit more...
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.testing_1.0.0-1+debug_iphoneos-arm.deb
+MD5sum: a9f0c550587694f831754a39ebc86e0a
