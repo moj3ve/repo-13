@@ -11,5 +11,4 @@ Filename: debs/com.burritoz.testing_1.0.0b-1+debug_iphoneos-arm.deb
 MD5sum: bfc9195fb7f50153bff7d5830f764f3d
 SHA1: ca5c418d695e2940c3c87c1f5c26b49be5ddd576
 SHA256: 88e9cb9b5ed6f01eed1f2f260399cfe94a5c1fa27d61abd374309d8df9e3f140
-Size: 348
-Icon: icons/dockify.png
+Icon: ./icons/dockify.png
