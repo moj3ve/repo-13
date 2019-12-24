@@ -11,5 +11,19 @@ Filename: debs/com.burritoz.testing_1.0.0b-1+debug_iphoneos-arm.deb
 MD5sum: bfc9195fb7f50153bff7d5830f764f3d
 SHA1: ca5c418d695e2940c3c87c1f5c26b49be5ddd576
 SHA256: 88e9cb9b5ed6f01eed1f2f260399cfe94a5c1fa27d61abd374309d8df9e3f140
-Icon: ./icons/dockify.png
+Installed-Size: 348
+
+Package: com.burritoz.testing
+Name: Dockify
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A very noice tweak to configure the dock a bit more...
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.testing_1.1_iphoneos-arm.deb
+MD5sum: 65cb5726016106bc6ffcba3992534372
+SHA1: 0e761b92fe5f5177a64eeb5a5c9ac348af0413cd
+SHA256: a91d073006a66fac83cd55a055dc4ff152210cc50b5922f6306fc8c14a9112a9
 Installed-Size: 348
