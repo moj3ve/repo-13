@@ -42,3 +42,18 @@ MD5sum: e6504e34c05c0b94d94d96abccfc114b
 SHA1: e685b688f025a487c3b877370b0a8c70b69cd104
 SHA256: 33288a8d782c9adf2fa336d5e6ae981a0fc3ec764818db3f034d2bb91375cdd6
 Installed-Size: 348
+
+Package: com.burritoz.audiomessagebegone
+Name: AudioMessageBeGone
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Deactivates audio messages
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.audiomessagebegone_1.0_iphoneos-arm.deb
+MD5sum: eb9f1b208e87ff07ef0af4c3d608a883
+SHA1: e6b51a63162bcef3254c3d292170876ed00c378f
+SHA256: 82dc164524b8709575933d8974a8c9e53aa581e601521d07380bf34defbfae96
+Installed-Size: 200
