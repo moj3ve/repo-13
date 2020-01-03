@@ -57,3 +57,18 @@ MD5sum: eb9f1b208e87ff07ef0af4c3d608a883
 SHA1: e6b51a63162bcef3254c3d292170876ed00c378f
 SHA256: 82dc164524b8709575933d8974a8c9e53aa581e601521d07380bf34defbfae96
 Installed-Size: 200
+
+Package: com.burritoz.alphabetfolders
+Name: AlphabetFolders
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Sort your folders alphabetically after each respring! OCD no more!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 264
+Filename: debs/com.burritoz.alphabetfolders_1.0.0_iphoneos-arm.deb
+MD5sum: c2131f40df878bbae9b24bf4a17f7a62
+SHA1: 0c68e688ead86a780e393978756dd9efb51c2e42
+SHA256: 7c2611c64ab0d275727871da836232c8eec2029a936ba074086bd66e25432ce4
