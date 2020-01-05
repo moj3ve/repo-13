@@ -72,3 +72,18 @@ Filename: debs/com.burritoz.alphabetfolders_1.0.0_iphoneos-arm.deb
 MD5sum: c2131f40df878bbae9b24bf4a17f7a62
 SHA1: 0c68e688ead86a780e393978756dd9efb51c2e42
 SHA256: 7c2611c64ab0d275727871da836232c8eec2029a936ba074086bd66e25432ce4
+
+Package: com.burritoz.4x3folders
+Name: 4x3 Folders
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Sometimes 9 just isn't enough. Give your folders an extra column!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.4x3folders_1.0_iphoneos-arm.deb
+Installed-Size: 264
+MD5SUM: 057c293140808e0c3b2c02d91f671b89
+SHA1: 6f476b1faa99fecd320682b57352297354ddebc9
+SHA256: f1da78b0b367ab7780f0aed4a32d760c1a77bc982321ff6e4b4d3188747d1740
