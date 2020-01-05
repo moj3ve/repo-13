@@ -91,13 +91,14 @@ SHA256: f1da78b0b367ab7780f0aed4a32d760c1a77bc982321ff6e4b4d3188747d1740
 Package: com.burritoz.4x3folders
 Name: 4x3 Folders
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Sometimes 9 just isn't enough. Give your folders an extra column!
 Maintainer: burrit0z
 Author: burrit0z
 Section: Tweaks
-Filename: debs/com.burritoz.4x3folders_1.0_iphoneos-arm.deb
+Conflicts: me.kritanta.homeplus (<=0.5.0-alpha)
+Filename: debs/com.burritoz.4x3folders_1.0.1_iphoneos-arm.deb
 Installed-Size: 264
 MD5SUM: 804e9b766ca9855a28da06a1b6910908
 SHA1: 24fad79eae9826eace0ffca55b9f6e47cbb8e591
