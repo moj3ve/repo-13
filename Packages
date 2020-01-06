@@ -46,7 +46,7 @@ Installed-Size: 348
 Package: com.burritoz.audiomessagebegone
 Name: AudioMessageBeGone
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Deactivates audio messages
 Maintainer: burrit0z
