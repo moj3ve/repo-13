@@ -118,3 +118,19 @@ Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=4x3folder
 MD5SUM: 804e9b766ca9855a28da06a1b6910908
 SHA1: 24fad79eae9826eace0ffca55b9f6e47cbb8e591
 SHA256: 3b2d75ac79c80c4e7c4cf41c794fa66673c5cdcf0bf7dcd25e77be676691c225
+
+Package: com.burritoz.buzztime
+Name: BuzzTime
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Ever wanted to check the time, but either (a) don't have a watch, or (b) are in a situation where it would be socially awkward to do so? Don't worry, here's a solution! You can have your phone tell you the time by vibrating! iPhone 7 and Up. A long vibration means a value of 5 for the current digit, and a shorter one means 1. Add them up in your head, then you have a digit of the time. (It goes through all of them, though, duh.)
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.buzztime_1.0_iphoneos-arm.deb
+Installed-Size: 396
+Depiction: https://github.com/Burrit0z/BuzzTime
+MD5SUM: 68cbd4c3d2497a6a46dacc69b0dce1d2
+SHA1: 741dedb80435365251e05ff92eadfb92503b2907
+SHA256: 0109e1c395b8088d1df888a0a2428a1638b8b7041f066fa546d0d3f088ef1685
