@@ -134,3 +134,20 @@ Depiction: https://github.com/Burrit0z/BuzzTime
 MD5SUM: 68cbd4c3d2497a6a46dacc69b0dce1d2
 SHA1: 741dedb80435365251e05ff92eadfb92503b2907
 SHA256: 0109e1c395b8088d1df888a0a2428a1638b8b7041f066fa546d0d3f088ef1685
+
+Package: com.burritoz.dockify
+Name: Dockify
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Conflicts: com.burritoz.testing
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Filename: debs/com.burritoz.dockify_1.2.1_iphoneos-arm.deb
+Installed-Size: 412
+Depiction: https://github.com/Burrit0z/Dockify_Source
+MD5SUM: 64062b32fbd68b3ed495f1182104c0b0
+SHA1: 20d8da1f24049cf3c705de09ac423ea4e520a3a4
+SHA256: 5bc57a2e317eb34f63f49d870d6b57aa2fd75fa24d476dd4c5fcc55bfb03c13d
