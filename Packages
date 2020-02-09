@@ -117,3 +117,12 @@ Depiction: https://github.com/Burrit0z/Dockify_Source
 MD5SUM: 6cfd6b725e2ebbb3c830be1d18cf81a7
 SHA1: 35ec2a5c42cc1ee13bf06c10a4a462baced55e48
 SHA256: c2cfa6836960c1f1277503ef6c5d75fc2efeb3427533c761b7bfaf30b495f815
+
+Package: com.burritoz.cartella
+Name: Coming soon - Cartella
+Version: 0.5
+Architecture: iphoneos-arm
+Description: Coming soon -- Cartella! Italian for Folder, this tweak will allow you to change up the look of your folders! (Note on iOS 13 the folder icons can get weird looking) \n Features: \n -Change columns \n -Change rows \n -Remove background blur
+Maintainer: burrit0z
+Author: burrit0z
+Section: Coming Soon!
