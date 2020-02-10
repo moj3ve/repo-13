@@ -122,7 +122,8 @@ Package: com.burritoz.cartella
 Name: Coming soon - Cartella
 Version: 0.5
 Architecture: iphoneos-arm
-Description: Coming soon -- Cartella! Italian for Folder, this tweak will allow you to change up the look of your folders! (Note on iOS 13 the folder icons can get weird looking) \n Features: \n -Change columns \n -Change rows \n -Remove background blur
+Description: Coming soon: Cartella! Italian for Folder, this tweak will allow you to change up the look of your folders! (Note on iOS 13 the folder icons can get weird looking) \n Features: \n -Change columns \n -Change rows \n -Remove background blur
 Maintainer: burrit0z
 Author: burrit0z
 Section: Coming Soon!
+Tag: cydia::commercial
