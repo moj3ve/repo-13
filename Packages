@@ -136,3 +136,22 @@ MD5SUM: 5ec41bd945461dc25a899e0e1df89370
 SHA1: 82458976c2bcab7e7741613b1bd34042d6d516b5
 SHA256: 8daac82c441667397b4e708c2898dc733119b69356b619139846f0be860c3a60
 Tag: compatible_min::ios13.0
+
+Package: com.burritoz.cartella
+Name: Cartella
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
+Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
+Version: 0.5.0.1
+Architecture: iphoneos-arm
+Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
+Filename: debs/com.burritoz.cartella_0.5.0.1_iphoneos-arm.deb
+Installed-Size: 420
+Depiction: https://github.com/Burrit0z/Cartella
+MD5SUM: 65840d4f2655b091019f15a7ece196e9
+SHA1: 5b7728b98b64f54841d4316784cd276dda7d3ff9
+SHA256: b46a36f694f658ea2b4db1e815dd396f727f0d70c8f0cfc4252a63d9a52de003
+Tag: compatible_min::ios13.0
