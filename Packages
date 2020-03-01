@@ -176,7 +176,7 @@ SHA256: 5ce34544794f1c24d6f8cb2bf1466d0a202f2b09233b90767bddfe8a65a580e9
 Tag: compatible_min::ios13.0
 
 Package: com.burritoz.cartella
-Name: Cartella
+Name: Cartella (use Folded)
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
 Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
 Version: 0.5.0.3
