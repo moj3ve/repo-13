@@ -1,233 +1,100 @@
-Package: com.burritoz.audiomessagebegone
-Name: AudioMessageBeGone
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Deactivates audio messages
-Maintainer: burrit0z
-Author: burrit0z
+Package: com.burritoz.4x3folders
+Version: 1.0.1
 Section: Tweaks
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=audiomessagebegoneDp
-Filename: debs/com.burritoz.audiomessagebegone_1.0_iphoneos-arm.deb
-Icon: ./burntBurritoIcon.png
-MD5sum: eb9f1b208e87ff07ef0af4c3d608a883
-SHA1: e6b51a63162bcef3254c3d292170876ed00c378f
-SHA256: 82dc164524b8709575933d8974a8c9e53aa581e601521d07380bf34defbfae96
-Installed-Size: 200
+Maintainer: burrit0z
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.4x3folders_1.0.1_iphoneos-arm.deb
+Size: 5740
+Installed-Size: 264
+MD5sum: 804e9b766ca9855a28da06a1b6910908
+Description: Sometimes 9 just isn't enough. Give your folders an extra column!
+Name: 4x3 Folders
+Author: burrit0z
 
 Package: com.burritoz.alphabetfolders
-Name: AlphabetFolders
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Sort your folders and pages alphabetically after each respring! OCD no more!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
 Version: 1.0.0
+Section: Tweaks
+Maintainer: burrit0z
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.alphabetfolders_1.0.0_iphoneos-arm.deb
+Size: 3148
 Installed-Size: 264
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=alphabetfoldersDp
-Filename: debs/com.burritoz.alphabetfolders_1.0.0_iphoneos-arm.deb
-Icon: ./burntBurritoIcon.png
 MD5sum: c2131f40df878bbae9b24bf4a17f7a62
-SHA1: 0c68e688ead86a780e393978756dd9efb51c2e42
-SHA256: 7c2611c64ab0d275727871da836232c8eec2029a936ba074086bd66e25432ce4
+Description: Sort your folders alphabetically after each respring! OCD no more!
+Name: AlphabetFolders
+Author: burrit0z
 
-Package: com.burritoz.4x3folders
-Name: 4x3 Folders
-Depends: mobilesubstrate
+Package: com.burritoz.audiomessagebegone
 Version: 1.0
-Architecture: iphoneos-arm
-Description: Sometimes 9 just isn't enough. Give your folders an extra column!
-Maintainer: burrit0z
-Author: burrit0z
 Section: Tweaks
-Filename: debs/com.burritoz.4x3folders_1.0_iphoneos-arm.deb
-Icon: ./burntBurritoIcon.png
-Installed-Size: 264
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=4x3foldersDp
-Conflicts: me.kritanta.homeplus (<=0.5.0-alpha)
-MD5SUM: 057c293140808e0c3b2c02d91f671b89
-SHA1: 6f476b1faa99fecd320682b57352297354ddebc9
-SHA256: f1da78b0b367ab7780f0aed4a32d760c1a77bc982321ff6e4b4d3188747d1740
-
-Package: com.burritoz.4x3folders
-Name: 4x3 Folders
+Maintainer: burrit0z
 Depends: mobilesubstrate
-Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Sometimes 9 just isn't enough. Give your folders an extra column!
-Maintainer: burrit0z
+Filename: debs//com.burritoz.audiomessagebegone_1.0_iphoneos-arm.deb
+Size: 3782
+Installed-Size: 200
+MD5sum: eb9f1b208e87ff07ef0af4c3d608a883
+Description: An awesome MobileSubstrate tweak!
+Name: AudioMessageBeGone
 Author: burrit0z
-Section: Tweaks
-Conflicts: me.kritanta.homeplus (<=0.5.0-alpha)
-Filename: debs/com.burritoz.4x3folders_1.0.1_iphoneos-arm.deb
-Icon: ./burntBurritoIcon.png
-Installed-Size: 264
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=4x3foldersDp
-MD5SUM: 804e9b766ca9855a28da06a1b6910908
-SHA1: 24fad79eae9826eace0ffca55b9f6e47cbb8e591
-SHA256: 3b2d75ac79c80c4e7c4cf41c794fa66673c5cdcf0bf7dcd25e77be676691c225
 
 Package: com.burritoz.buzztime
-Name: BuzzTime
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>=1.13)
 Version: 1.0
-Architecture: iphoneos-arm
-Description: Ever wanted to check the time, but either (a) don't have a watch, or (b) are in a situation where it would be socially awkward to do so? Don't worry, here's a solution! You can have your phone tell you the time by vibrating! iPhone 7 and Up. A long vibration means a value of 5 for the current digit, and a shorter one means 1. Add them up in your head, then you have a digit of the time. (It goes through all of them, though, duh.)
-Maintainer: burrit0z
-Author: burrit0z
 Section: Tweaks
-Filename: debs/com.burritoz.buzztime_1.0_iphoneos-arm.deb
+Maintainer: burrit0z
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.buzztime_1.0_iphoneos-arm.deb
+Size: 62772
 Installed-Size: 396
-Depiction: https://github.com/Burrit0z/BuzzTime
-MD5SUM: 68cbd4c3d2497a6a46dacc69b0dce1d2
-SHA1: 741dedb80435365251e05ff92eadfb92503b2907
-SHA256: 0109e1c395b8088d1df888a0a2428a1638b8b7041f066fa546d0d3f088ef1685
-
-Package: com.burritoz.dockify
-Name: Dockify
-Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
-Conflicts: com.burritoz.testing
-Version: 1.2.1
-Architecture: iphoneos-arm
-Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
-Maintainer: burrit0z
+MD5sum: 68cbd4c3d2497a6a46dacc69b0dce1d2
+Description: Ever wanted to check the time, but either (a) don't have a watch, or (b) are in a situation where it would be socially awkward to do so? Don't worry, here's a solution! You can have your phone tell you the time by vibrating! iPhone 7 and Up. A long vibration means a value of 5 for the current digit, and a shorter one means 1. Add them up in your head, then you have a digit of the time. (It goes through all of them, though, duh.)
+Name: BuzzTime
 Author: burrit0z
+
+Package: com.burritoz.cartella
+Version: 0.6.1
 Section: Tweaks
-Filename: debs/com.burritoz.dockify_1.2.1_iphoneos-arm.deb
-Installed-Size: 412
-Depiction: https://github.com/Burrit0z/Dockify_Source
-MD5SUM: 64062b32fbd68b3ed495f1182104c0b0
-SHA1: 20d8da1f24049cf3c705de09ac423ea4e520a3a4
-SHA256: 5bc57a2e317eb34f63f49d870d6b57aa2fd75fa24d476dd4c5fcc55bfb03c13d
+Maintainer: burrit0z
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.cartella_0.6.1_iphoneos-arm.deb
+Size: 70336
+Installed-Size: 364
+MD5sum: 3735e49afd9259f9180db73f1b675a89
+Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
+Name: Cartella
+Author: burrit0z
 
 Package: com.burritoz.dockify
-Name: Dockify
-Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
-Conflicts: com.burritoz.testing
 Version: 1.2.2
-Architecture: iphoneos-arm
-Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
-Maintainer: burrit0z
-Author: burrit0z
 Section: Tweaks
-Filename: debs/com.burritoz.dockify_1.2.2_iphoneos-arm.deb
+Maintainer: burrit0z
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Conflicts: com.burritoz.testing
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.dockify_1.2.2_iphoneos-arm.deb
+Size: 14418
 Installed-Size: 412
-Depiction: https://github.com/Burrit0z/Dockify_Source
-MD5SUM: 6cfd6b725e2ebbb3c830be1d18cf81a7
-SHA1: 35ec2a5c42cc1ee13bf06c10a4a462baced55e48
-SHA256: c2cfa6836960c1f1277503ef6c5d75fc2efeb3427533c761b7bfaf30b495f815
-
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.5.0
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
+MD5sum: 6cfd6b725e2ebbb3c830be1d18cf81a7
+Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
+Name: Dockify
 Author: burrit0z
-Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.5.0_iphoneos-arm.deb
-Installed-Size: 420
-Depiction: https://github.com/Burrit0z/Cartella
-MD5SUM: 5ec41bd945461dc25a899e0e1df89370
-SHA1: 82458976c2bcab7e7741613b1bd34042d6d516b5
-SHA256: 8daac82c441667397b4e708c2898dc733119b69356b619139846f0be860c3a60
-Tag: compatible_min::ios13.0
 
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.5.0.1
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
-Author: burrit0z
+Package: com.burritoz.testing
+Version: 1.2
 Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.5.0.1_iphoneos-arm.deb
-Installed-Size: 420
-Depiction: https://github.com/Burrit0z/Cartella
-MD5SUM: 65840d4f2655b091019f15a7ece196e9
-SHA1: 5b7728b98b64f54841d4316784cd276dda7d3ff9
-SHA256: b46a36f694f658ea2b4db1e815dd396f727f0d70c8f0cfc4252a63d9a52de003
-Tag: compatible_min::ios13.0
+Maintainer: burrit0z
+Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.testing_1.2_iphoneos-arm.deb
+Size: 8202
+Installed-Size: 348
+MD5sum: e6504e34c05c0b94d94d96abccfc114b
+Description: A very noice tweak to configure the dock a bit more...
+Name: Dockify
+Author: burrit0z
 
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.5.0.2
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.5.0.2_iphoneos-arm.deb
-Installed-Size: 424
-Depiction: https://github.com/Burrit0z/Cartella
-MD5SUM: 511438eb0b39df822b10a502724be0d1
-SHA1: 27f3f639e48a53f744ff47ee25b59b7a6a57c72d
-SHA256: 5ce34544794f1c24d6f8cb2bf1466d0a202f2b09233b90767bddfe8a65a580e9
-Tag: compatible_min::ios13.0
-
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.5.0.3
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.5.0.3_iphoneos-arm.deb
-Installed-Size: 424
-Depiction: https://github.com/Burrit0z/cartella#change-log
-MD5SUM: d4c27f60e4074518b8d48fe145de1061
-SHA1: f4ec84357c3edb0558a51f00a103d5cc0902f8ce
-SHA256: ef1fd28fdbea6467a7f5d2b0319973eb351e47931419c7173ed4596f469f184f
-Tag: compatible_min::ios13.0
-
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader, org.thebigboss.libcolorpicker
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.5.9
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.6_iphoneos-arm.deb
-Installed-Size: 424
-Depiction: https://github.com/Burrit0z/cartella#change-log
-MD5SUM: 19d5abb2d6cb4c4ee0ac965da31ab21d
-SHA1: 2d95a12703b9dbd1ccba90bace17d28a60ae92a5
-SHA256: c2a2d7281add266899d0cd56f14cdb759349ff6b8c6a9442bb6c4e32345e92e7
-Tag: compatible_min::ios13.0
-
-Package: com.burritoz.cartella
-Name: Cartella
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader, org.thebigboss.libcolorpicker
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
-Version: 0.6.0
-Architecture: iphoneos-arm
-Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
-Maintainer: burrit0z
-Author: burrit0z
-Section: Tweaks
-Icon: https://github.com/Burrit0z/cartella/blob/new/cartellaprefs/Resources/icon%403x.png
-Filename: debs/com.burritoz.cartella_0.6.1_iphoneos-arm.deb
-Installed-Size:
-Depiction: https://github.com/Burrit0z/cartella#change-log
-MD5SUM: 3735e49afd9259f9180db73f1b675a89
-SHA1: e2ea39b2d9c3ed8f5b560feede60d592886783d5
-SHA256: 6922e01b9262e52bf2d7c54c7244a8382c6f514929fce9e51b4739496d726bc0
-Tag: compatible_min::ios13.0
