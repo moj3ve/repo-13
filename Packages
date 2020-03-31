@@ -84,17 +84,3 @@ Description: A very noice tweak to configure the dock a bit more... Lightweight 
 Name: Dockify
 Author: burrit0z
 
-Package: com.burritoz.testing
-Version: 1.2
-Section: Tweaks
-Maintainer: burrit0z
-Depends: mobilesubstrate, preferenceloader, com.saurik.substrate.safemode, ws.hbang.common (>=1.13)
-Architecture: iphoneos-arm
-Filename: debs//com.burritoz.testing_1.2_iphoneos-arm.deb
-Size: 8202
-Installed-Size: 348
-MD5sum: e6504e34c05c0b94d94d96abccfc114b
-Description: A very noice tweak to configure the dock a bit more...
-Name: Dockify
-Author: burrit0z
-
