@@ -58,13 +58,25 @@ Package: com.burritoz.cartella
 Version: 0.6.1
 Section: Tweaks
 Maintainer: burrit0z
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13), preferenceloader, org.thebigboss.libcolorpicker
-Conflicts: me.kritanta.homeplus (<= 0.4.9-beta)
+Depends: mobilesubstrate
+Conflicts:
 Architecture: iphoneos-arm
 Filename: debs//com.burritoz.cartella_0.6.1_iphoneos-arm.deb
-Size: 70336
-Installed-Size: 364
-MD5sum: 3735e49afd9259f9180db73f1b675a89
+Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
+Name: Cartella
+Author: burrit0z
+
+Package: com.burritoz.cartella
+Version: 0.7~EOL
+Section: Tweaks
+Maintainer: burrit0z
+Depends: mobilesubstrate
+Conflicts:
+Architecture: iphoneos-arm
+Filename: debs//com.burritoz.cartella_0.7~EOL_iphoneos-arm.deb
+Size: 49408
+Installed-Size: 276
+MD5sum: 0dc69e905dea7460956276f9769c2ba8
 Description: Cartella, a (mostly) dynamic folder tweak! This tweak will allow you to change up the look of your folders to fit any setup! Bolders for iOS 13 and WAY more!
 Name: Cartella
 Author: burrit0z
@@ -83,4 +95,3 @@ MD5sum: 6cfd6b725e2ebbb3c830be1d18cf81a7
 Description: A very noice tweak to configure the dock a bit more... Lightweight and effective!
 Name: Dockify
 Author: burrit0z
-
