@@ -100,7 +100,7 @@ Package: xyz.burritoz.thomz.multiplalite
 Name: Multipla Lite
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, com.blakeboxberger.bazzi2, com.blakeboxberger.bazzi
-Version: 1.1.1~lite4
+Version: 1.1.1~lite5
 Architecture: iphoneos-arm
 Description: Power to your Dock
 Maintainer: Thomz and burrit0z
@@ -108,6 +108,6 @@ Author: Thomz and burrit0z
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/MultiplaPrefs.bundle/icon@2x.png
 Filename: debs//xyz.burritoz.thomz.multiplalite_1.1.1~lite4_iphoneos-arm.deb
-Size: 1124750
-MD5sum: b2c250574cfbe4b0c270acfe952d4536
+Size: 1124778
+MD5sum: 4e305932917fe0d53142bea4b6138b54
 
