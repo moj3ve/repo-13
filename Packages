@@ -115,15 +115,15 @@ Package: xyz.burritoz.thomz.multipla
 Name: Multipla (beta, buy on Chariz first)
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.bengiannis.primo, com.eswick.harbor3, com.spark.vesta, xyz.burritoz.thomz.multiplalite
-Version: 1.2.1~beta
+Version: 1.2.1~beta2
 Architecture: iphoneos-arm
 Description: Power to your Dock
 Maintainer: Thomz and burrit0z
 Author: Thomz and burrit0z
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/MultiplaPrefs.bundle/icon@2x.png
-Filename: debs//xyz.burritoz.thomz.multipla_1.2.1~beta_iphoneos-arm.deb
+Filename: debs//xyz.burritoz.thomz.multipla_1.2.1~beta2_iphoneos-arm.deb
 Size: 1485936
-MD5sum: b9c133e2b538c51dd7b59fe591a14109
+MD5sum: d175fa26fedb7d66bdb017a2858b26a8
 Tag: cydia::commercial
 
